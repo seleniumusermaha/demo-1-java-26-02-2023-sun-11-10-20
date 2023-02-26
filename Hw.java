@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Hw {
 	
-	//edited in git for reference.
+	//edited in git 
 
 	public static void main(String[] args) {
 
